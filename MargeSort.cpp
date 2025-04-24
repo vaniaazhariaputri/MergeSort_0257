@@ -95,7 +95,9 @@ void output()
     cout << "\nData setelah diurutkan (Merge Sort): ";
     for (int i = 0; 1 < n; 1++)
     {
-        
+        cout << arr[i] << " ";
+    }cout << endl;
+}
 
 
 
